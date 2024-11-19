@@ -1,0 +1,13 @@
+https://tutorials.eu/blog/
+
+https://www.youtube.com/channel/UCGjv_3tbzJ8yKuvacoqmO-Q
+
+https://tutorials.eu/50-interview-questions-for-your-csharp-interview/
+
+https://tutorials.eu/how-to-check-the-palindrome-number-in-csharp-programming/
+
+https://tutorials.eu/armstrong-number-and-how-to-check-it-with-csharp/
+
+https://tutorials.eu/csharp-fibonacci-sequence-series/
+
+https://tutorials.eu/what-is-a-prime-number-and-how-to-generate-prime-numbers-using-c-programming/
